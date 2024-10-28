@@ -1,7 +1,7 @@
 # Data Science & Finance
 
 ### Education
-Data Science, M.S.
+Data Science, M.S.  
 Accounting, B.B.A
 
 ### Work Experience
